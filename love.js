@@ -633,7 +633,7 @@ function blink(){
    ============================================================ */
 function reset(){
   catState = 'idle';
-  title.textContent = 'Happy 1 month, my love ♡ Still love me?';
+  title.textContent = 'Happy 2 years, 1 month, and 8 days, my love ♡ Still love me?';
   drawSprite(catCanvas, CAT_IDLE);
   catCanvas.setAttribute('aria-label', 'A little cat holding a heart');
   buttons.hidden = false;
